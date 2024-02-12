@@ -53,13 +53,13 @@ As a Motion Designer, I've had the privilege to work on a variety of projects, i
 
 ### 👨‍💻 Software:
 
-<img src="https://i123.fastpic.org/big/2024/0212/5c/56fc7fc85bd65fa2d302b6767cbe645c.png" width="40" height="40" alt="AfterEffects" />⠀<img src="https://i123.fastpic.org/big/2024/0212/f0/73177b67e1a95de3c3ba94f53fc0f0f0.png" width="40" height="40" alt="Illustrator" />⠀<img src="https://i123.fastpic.org/big/2024/0212/20/3adb4f2d1d0e178fbb1493f717280d20.png" width="40" height="40" alt="Photoshop" />⠀<img src="https://i123.fastpic.org/big/2024/0212/1b/35ff5f3817f24c56078beb390e55cd1b.png" width="40" height="40" alt="PremierePro" />⠀<img src="https://i123.fastpic.org/big/2024/0212/f9/9d3bd999a96fc0796af00f056a30b0f9.png" width="40" height="40" alt="Spine2D" />
+<a href="https://www.adobe.com/products/aftereffects.html"><img src="https://i123.fastpic.org/big/2024/0212/5c/56fc7fc85bd65fa2d302b6767cbe645c.png" width="40" height="40" alt="AfterEffects" /></a>⠀<a href="https://www.adobe.com/products/illustrator.html"><img src="https://i123.fastpic.org/big/2024/0212/f0/73177b67e1a95de3c3ba94f53fc0f0f0.png" width="40" height="40" alt="Illustrator" /></a>⠀<a href="https://www.adobe.com/products/photoshop.html"><img src="https://i123.fastpic.org/big/2024/0212/20/3adb4f2d1d0e178fbb1493f717280d20.png" width="40" height="40" alt="Photoshop" /></a>⠀<a href="https://www.adobe.com/products/premiere.html"><img src="https://i123.fastpic.org/big/2024/0212/1b/35ff5f3817f24c56078beb390e55cd1b.png" width="40" height="40" alt="PremierePro" /></a>⠀<a href="https://esotericsoftware.com/"><img src="https://i123.fastpic.org/big/2024/0212/f9/9d3bd999a96fc0796af00f056a30b0f9.png" width="40" height="40" alt="Spine2D" /></a>
 
 
 ---
 
 ### 🎓 Eager Learner:
-<img src="https://i123.fastpic.org/big/2024/0212/7c/aea52e38092830c745095ca21339d17c.png" width="40" height="40" alt="UnrealEngine" />
+<a href="https://www.unrealengine.com/en-US"><img src="https://i123.fastpic.org/big/2024/0212/7c/aea52e38092830c745095ca21339d17c.png" width="40" height="40" alt="UnrealEngine" /></a>
 
 ---
 
