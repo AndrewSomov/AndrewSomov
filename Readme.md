@@ -90,4 +90,4 @@ As a Motion Designer, I've had the privilege to work on a variety of projects, i
 
 ### 👔 CV:
 
-<img src="https://thesomov.com/Andrew_Somov_Motion_designer_resume-en.png" alt="CV" />
+<a href="https://thesomov.com/cv"><img src="https://thesomov.com/Andrew_Somov_Motion_designer_resume-en.png" alt="CV" /></a>
