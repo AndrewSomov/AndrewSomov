@@ -65,29 +65,29 @@ As a Motion Designer, I've had the privilege to work on a variety of projects, i
 
 ### 💼 Portfolio:
 
-[![Match 3](https://thesomov.com/images/thumbs/Match%203.webp)](https://youtu.be/ay-AtQLMpvo "Match 3")
-[![Corner Towers](https://thesomov.com/images/thumbs/Corner%20Towers.webp)](https://youtu.be/2WUajUQkWiA "Corner Towers")
-[![Bloodline](https://thesomov.com/images/thumbs/Bloodline.webp)](https://youtu.be/WJjGnfpONxg "Bloodline")
-[![Clones](https://thesomov.com/images/thumbs/Clones.webp)](https://youtu.be/skTfyHF4Er8 "Clones")
-[![Trailer](https://thesomov.com/images/thumbs/Clones.webp)](https://youtu.be/r4Sjhsnp15o "Trailer")
-[![3D animation](https://thesomov.com/images/thumbs/3d%20animation.webp)](https://youtu.be/biKGZTnyjSs "3D animation")
-[![Wheel of Fortune](https://thesomov.com/images/thumbs/Wheel%20of%20Fortune.webp)](https://youtu.be/_DYcJW5NS2A "Wheel of Fortune")
-[![Merge](https://thesomov.com/images/thumbs/Merge.webp)](https://youtu.be/uiUTVDNpzCE "Merge")
-[![Fighting](https://thesomov.com/images/thumbs/Fighting.webp)](https://youtu.be/SJm63-7RaC4 "Fighting")
-[![Daisy on the split](https://thesomov.com/images/thumbs/Daisy%20on%20the%20split.webp)](https://youtu.be/4PouzDkoX-U "Daisy on the split")
-[![Hands](https://thesomov.com/images/thumbs/Hands.webp)](https://youtu.be/0_rXgeDBha4 "Hands")
-[![Alpaca](https://thesomov.com/images/thumbs/Alpaca.webp)](https://youtu.be/QMftMcUcRZo "Alpaca")
-[![Hands 2](https://thesomov.com/images/thumbs/Hands%202.webp)](https://youtu.be/rRDlM0RIsyQ "Hands 2")
-[![Deconstruction](https://thesomov.com/images/thumbs/Deconstruction.webp)](https://youtu.be/YpW2012_VsM "Deconstruction")
-[![Construction](https://thesomov.com/images/thumbs/Construction.webp)](https://youtu.be/Xq2jSq194p0 "Construction")
-[![Daisy match 3](https://thesomov.com/images/thumbs/Daisy%20match%203.webp)](https://youtu.be/t-cOBVSqVOU "Daisy match 3")
-[![Bowling Crew #1](https://thesomov.com/images/thumbs/BowlingCrew1.webp)](https://youtu.be/Mz5we9EB8x4 "Bowling Crew #1")
-[![Bowling Crew #2](https://thesomov.com/images/thumbs/BowlingCrew2.webp)](https://youtu.be/wt1idiICEjI "Bowling Crew #2")
-[![Endel Focus, Sleep, Relax App](https://thesomov.com/images/thumbs/Endel%20Focus,%20Sleep,%20Relax%20App.webp)](https://youtu.be/zhDHqAe-bak "Endel Focus, Sleep, Relax App")
-[![Promo for DJ performance in a club](https://thesomov.com/images/thumbs/Promo%20for%20DJ%20performance%20in%20a%20club.webp)](https://youtu.be/514iu4GWyHw "Promo for DJ performance in a club")
+[![Match 3](images/Match%203.webp)](https://youtu.be/ay-AtQLMpvo "Match 3")
+[![Corner Towers](images/Corner%20Towers.webp)](https://youtu.be/2WUajUQkWiA "Corner Towers")
+[![Bloodline](images/Bloodline.webp)](https://youtu.be/WJjGnfpONxg "Bloodline")
+[![Clones](images/Clones.webp)](https://youtu.be/skTfyHF4Er8 "Clones")
+[![Trailer](images/Trailer.webp)](https://youtu.be/r4Sjhsnp15o "Trailer")
+[![3D animation](images/3d%20animation.webp)](https://youtu.be/biKGZTnyjSs "3D animation")
+[![Wheel of Fortune](images/Wheel%20of%20Fortune.webp)](https://youtu.be/_DYcJW5NS2A "Wheel of Fortune")
+[![Merge](images/Merge.webp)](https://youtu.be/uiUTVDNpzCE "Merge")
+[![Fighting](images/Fighting.webp)](https://youtu.be/SJm63-7RaC4 "Fighting")
+[![Daisy on the split](images/Daisy%20on%20the%20split.webp)](https://youtu.be/4PouzDkoX-U "Daisy on the split")
+[![Hands](images/Hands.webp)](https://youtu.be/0_rXgeDBha4 "Hands")
+[![Alpaca](images/Alpaca.webp)](https://youtu.be/QMftMcUcRZo "Alpaca")
+[![Hands 2](images/Hands%202.webp)](https://youtu.be/rRDlM0RIsyQ "Hands 2")
+[![Deconstruction](images/Deconstruction.webp)](https://youtu.be/YpW2012_VsM "Deconstruction")
+[![Construction](images/Construction.webp)](https://youtu.be/Xq2jSq194p0 "Construction")
+[![Daisy match 3](images/Daisy%20match%203.webp)](https://youtu.be/t-cOBVSqVOU "Daisy match 3")
+[![Bowling Crew #1](images/BowlingCrew1.webp)](https://youtu.be/Mz5we9EB8x4 "Bowling Crew #1")
+[![Bowling Crew #2](images/BowlingCrew2.webp)](https://youtu.be/wt1idiICEjI "Bowling Crew #2")
+[![Endel Focus, Sleep, Relax App](images/Endel%20Focus,%20Sleep,%20Relax%20App.webp)](https://youtu.be/zhDHqAe-bak "Endel Focus, Sleep, Relax App")
+[![Promo for DJ performance in a club](images/Promo%20for%20DJ%20performance%20in%20a%20club.webp)](https://youtu.be/514iu4GWyHw "Promo for DJ performance in a club")
 
 ---
 
 ### 👔 CV:
 
-<a href="https://thesomov.com/cv"><img src="https://thesomov.com/Andrew_Somov_Motion_designer_resume-en.png" alt="CV" /></a>
+<a href="https://thesomov.com/cv"><img src="images/Andrew_Somov_Motion_designer_resume-en.png" alt="CV" /></a>
