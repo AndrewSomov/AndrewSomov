@@ -22,31 +22,31 @@ As a Motion Designer, I've had the privilege to work on a variety of projects, i
 ### 🤝 Links:
 
 <a href="https://www.google.com/maps/place/41.639427,%2041.628303/@41.639427,41.628303">
-  <img src="https://thesomov.com/images/point.webp" alt="location" />
+  <img src="images/point.webp" alt="location" />
 </a>
 <a href="mailto:motion.designer@thesomov.com">
-  <img src="https://thesomov.com/images/email.webp" alt="mail" />
+  <img src="images/email.webp" alt="mail" />
 </a>
 <a href="https://t.me/thesomov">
-  <img src="https://thesomov.com/images/telegram.webp" alt="telegram" />
+  <img src="images/telegram.webp" alt="telegram" />
 </a>
 <a href="https://t.me/thesomov_channel">
-  <img src="https://thesomov.com/images/telegram_plus.webp" alt="telegram_channel" />
+  <img src="images/telegram_plus.webp" alt="telegram_channel" />
 </a>
 <a href="https://wa.me/995511147883">
-  <img src="https://thesomov.com/images/whatsapp.webp" alt="whatsapp" />
+  <img src="images/whatsapp.webp" alt="whatsapp" />
 </a>
 <a href="https://www.instagram.com/thesomov.video/">
-  <img src="https://thesomov.com/images/instagram.webp" alt="instagram" />
+  <img src="images/instagram.webp" alt="instagram" />
 </a>
 <a href="https://www.linkedin.com/in/andrew-somov/">
-  <img src="https://thesomov.com/images/linkedin.webp" alt="linkedin" />
+  <img src="images/linkedin.webp" alt="linkedin" />
 </a>
 <a href="https://www.facebook.com/thesomov">
-  <img src="https://thesomov.com/images/facebook.webp" alt="facebook" />
+  <img src="images/facebook.webp" alt="facebook" />
 </a>
 <a href="https://www.youtube.com/@thesomov">
-  <img src="https://thesomov.com/images/youtube.webp" alt="youtube" />
+  <img src="images/youtube.webp" alt="youtube" />
 </a>
 
 ---
