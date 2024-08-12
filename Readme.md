@@ -14,7 +14,7 @@
 ### 😊 About me:
 
 
-In my role as a Motion Designer, I've had the opportunity to contribute to a diverse range of projects, encompassing creative videos and mobile game advertising. My main focus revolves around Motion Design 2D animation and Unity Artist.<br /><br />I possess proficiency in utilizing tools such as Adobe After Effects, Adobe Premiere Pro, Photoshop, Illustrator, Unity, and Spine 2D.
+In my role as a Motion Designer, I've had the opportunity to contribute to a diverse range of projects, encompassing creative videos and mobile game advertising. My main focus revolves around Motion Design, 2D animation and Unity Artist.<br /><br />I possess proficiency in utilizing tools such as Adobe After Effects, Adobe Premiere Pro, Photoshop, Illustrator, Unity, and Spine 2D.
 
 
 
