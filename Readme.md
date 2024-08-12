@@ -39,6 +39,7 @@ In my role as a Motion Designer, I've had the opportunity to contribute to a div
 
 ### 💼 Portfolio:
 
+I cannot share works from my current job due to an NDA.
 [![Match 3](images/Match%203.webp)](https://youtu.be/ay-AtQLMpvo "Match 3")
 [![Corner Towers](images/Corner%20Towers.webp)](https://youtu.be/2WUajUQkWiA "Corner Towers")
 [![Bloodline](images/Bloodline.webp)](https://youtu.be/WJjGnfpONxg "Bloodline")
