@@ -38,8 +38,11 @@ In my role as a Motion Designer, I've had the opportunity to contribute to a div
 ---
 
 ### 💼 Portfolio:
-I cannot share works from my current job due to an NDA.
 
+[![Borsch](images/Borsch.png)](https://youtu.be/WRooVot2hfY "Borsch")
+[![Apocalypse](images/Apocalypse.png)](https://youtu.be/1o7HDHvbt9Q "Apocalypse")
+[![Fifa](images/Fifa.png)](https://youtu.be/7spg8IZGds0 "Fifa")
+[![Eatventure](images/Eatventure.png)](https://youtu.be/mVoxdA1wxr4 "Eatventure")
 [![Match 3](images/Match%203.webp)](https://youtu.be/ay-AtQLMpvo "Match 3")
 [![Corner Towers](images/Corner%20Towers.webp)](https://youtu.be/2WUajUQkWiA "Corner Towers")
 [![Bloodline](images/Bloodline.webp)](https://youtu.be/WJjGnfpONxg "Bloodline")
