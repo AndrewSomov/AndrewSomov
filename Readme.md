@@ -67,7 +67,7 @@ In my role as a Motion Designer, I've had the opportunity to contribute to a div
 ---
 
 ### 👔 CV:
-<a href="https://andrewsomov.github.io/AndrewSomov/Andrew_Somov_Motion_designer_resume-en.pdf">
+<a href="https://andrewsomov.github.io/AndrewSomov/Andrew-Somov_Motion-Designer.pdf">
   <img src="images/download.png" width="150" height="47 alt="download" />
 </a><br />
-<a href="https://andrewsomov.github.io/AndrewSomov/Andrew_Somov_Motion_designer_resume-en.pdf"><img src="images/Andrew_Somov_Motion_designer_resume-en.png" width="595" height="841" alt="CV" /></a>
+<a href="https://andrewsomov.github.io/AndrewSomov/Andrew-Somov_Motion-Designer.pdf"><img src="images/Andrew-Somov_Motion-Designer.png" width="595" height="841" alt="CV" /></a>
