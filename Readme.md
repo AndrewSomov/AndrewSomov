@@ -1,7 +1,5 @@
 # Hello recruiters! I am Andrew Somov, a Middle Motion Designer and 2D Animator.
 
----
-
 ### Contents:
 <p>&#x2022; <a href="#-about-me">About me</a>
 <br />&#x2022; <a href="#-links">Links</a>
