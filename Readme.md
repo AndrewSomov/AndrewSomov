@@ -14,7 +14,30 @@
 ### 😊 About me:
 
 
-In my role as a Motion Designer, I've had the opportunity to contribute to a diverse range of projects, encompassing creative videos and mobile game advertising. My main focus revolves around Motion Design, 2D animation and Unity Artist.<br /><br />I possess proficiency in utilizing tools such as Adobe After Effects, Adobe Premiere Pro, Photoshop, Illustrator, Unity, and Spine 2D.
+<p>Motion Designer with over 5 years of experience specializing in 2D animation and expanding into 3D to drive user engagement and brand alignment across digital sectors, including Mobile Gaming. Known for delivering high-quality, visually impactful content with meticulous attention to detail and strong collaborative skills within international teams. Proficient in Adobe After Effects, Premiere Pro, Unity, Spine 2D, and developing expertise with Blender, Unreal Engine, and AI tools for content creation. Skilled in creating engaging and brand-consistent animations that contribute to enhanced user acquisition, brand visibility, and campaign effectiveness.</p>
+
+<p>Portfolio: https://thesomov.com/portfolio/<br />
+Behance: https://www.behance.net/andrewsomov<br />
+GitHub: https://github.com/AndrewSomov</p>
+
+<p>Technical Skills:<br />
+- Advanced: Adobe After Effects, Spine 2D, Premiere Pro, Unity, Photoshop, Illustrator<br />
+- Developing: Blender, Unreal Engine (3D Animation Basics), Cinema 4D<br />
+- Additional: Sound Design, AI Tools (Midjourney, Stable Diffusion, Kaiber)</p>
+
+<p>Core Skills:<br />
+- Motion Graphics<br />
+- 2D & 3D Animation<br />
+- Video Editing & Production<br />
+- Video Quality & Sound Synchronization<br />
+- Brand Consistency & Visual Storytelling<br />
+- Creative Collaboration & Cross-Platform Integration<br />
+- Project Management & Team Collaboration<br />
+- Adaptability in Fast-Paced Environments<br />
+- Attention to Detail<br />
+- Innovative Content Creation & Ideation</p>
+
+<p>Feel free to reach out via email at <a href="mailto:motion.designer@thesomov.com">motion.designer@thesomov.com</a></p>
 
 
 
