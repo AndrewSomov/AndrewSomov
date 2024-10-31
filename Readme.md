@@ -3,7 +3,6 @@
 ### Contents:
 <p>&#x2022; <a href="#-about-me">About me</a>
 <br />&#x2022; <a href="#-links">Links</a>
-<br />&#x2022; <a href="#-software">Software</a>
 <br />&#x2022; <a href="#-portfolio">Portfolio</a>
 <br />&#x2022; <a href="#-cv">CV</a></p>
 
